@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\bin\Debug\netcoreapp3.1\DataTypesInDepth.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\DataTypesInDepth\obj\Debug\netcoreapp3.1\DataTypesInDepth.genruntimeconfig.cache
